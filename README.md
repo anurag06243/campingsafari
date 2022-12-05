@@ -24,4 +24,4 @@ Website link: https://campingsafari1.herokuapp.com/
 ● Add a New Campground page
 ![image](https://user-images.githubusercontent.com/87582335/197169171-ff83705d-3109-4d40-ba6f-bcc69d6a2fa2.png)
 
-TechStack used:Html,Css,JavaScript,EJS,Node.js, MaoExpreBootstrap,Express, MongoDB, Mongoose,Mapbox.
+TechStack used:Html,Css,JavaScript,EJS,Node.js, Bootstrap,Express, MongoDB, Mongoose,Mapbox.
