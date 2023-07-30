@@ -1,26 +1,34 @@
+
 CAMPING SAFARI
 
 
-● The website  share the experience of  users about a camping location by creating campgrounds and writing  reviews and information.
+● The website  share the experience of  tourist about a tourist place by creating camps and sharing  reviews and information about location.
 
-● The user needs to register and login to view campgrounds and write reviews
+● The Tourist needs to register and login to view camps and write reviews.
+
+● The map feature allow the user to view location of Camps.
 
 ● HOME PAGE
-![image](https://user-images.githubusercontent.com/87582335/197168022-4a04f52d-531f-4a61-90e8-130ee21677d7.png)
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/88e68102-efad-4d7f-b271-9fcec1593b9a)
 
 ● REGISTRATION PAGE
-![image](https://user-images.githubusercontent.com/87582335/197168247-b7985c8d-49bc-4b87-8047-d3582b52cf37.png)
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/e8d67792-316e-4853-8a07-e3dedd0a7e76)
 
 ● LOGIN PAGE
-![image](https://user-images.githubusercontent.com/87582335/197168399-bc152b62-fe4a-40f8-ba83-1f66aed2aa9c.png)
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/e33d8100-d9cb-4f33-a3f4-a7c64e438f48)
 
-● All Campgrounds page
-![image](https://user-images.githubusercontent.com/87582335/197168747-0b467423-8d3d-4966-a65e-7945a4656f67.png)
+● All Camps page
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/2ad9a02e-5a3b-4ce7-a16d-63c5682fa609)
 
-● In particular Campground page
-![image](https://user-images.githubusercontent.com/87582335/197168990-cab50adf-0c8e-4a82-8b7f-af0cd26acac4.png)
+● In particular Camp page
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/404b053e-a325-49ac-ad76-ccc5043381be)
+
+● Editing and Updating particular Camp page
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/d2e59ab7-e7d6-431e-8ce4-b2a07424de54)
 
 ● Add a New Campground page
-![image](https://user-images.githubusercontent.com/87582335/197169171-ff83705d-3109-4d40-ba6f-bcc69d6a2fa2.png)
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/75b2499f-a67d-4264-b955-f43f11a9f2fa)
+
+
 
 TechStack used:Html,Css,JavaScript,EJS,Node.js, Bootstrap,Express, MongoDB, Mongoose,Mapbox.
