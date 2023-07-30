@@ -18,7 +18,7 @@ CAMPING SAFARI
 ![image](https://github.com/anurag06243/campingsafari/assets/87582335/e33d8100-d9cb-4f33-a3f4-a7c64e438f48)
 
 ● All Camps page
-![image](https://github.com/anurag06243/campingsafari/assets/87582335/2ad9a02e-5a3b-4ce7-a16d-63c5682fa609)
+![image](https://github.com/anurag06243/campingsafari/assets/87582335/239da38d-fa9d-44c8-8069-8860e42f7f66)
 
 ● In particular Camp page
 ![image](https://github.com/anurag06243/campingsafari/assets/87582335/404b053e-a325-49ac-ad76-ccc5043381be)
